@@ -9,5 +9,5 @@ A chess game made with JavaScript, HTML and CSS.
 
 ## How to play without downloading the repository
 
- Click this link below to play this on your browser -
- [Click to Play](https://varchasvakhare2022.github.io/Chess/)
+Click this link below to play this on your browser -
+.[Click to Play](https://varchasvakhare2022.github.io/Chess/)
